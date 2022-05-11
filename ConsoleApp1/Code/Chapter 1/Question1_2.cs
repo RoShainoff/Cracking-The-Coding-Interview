@@ -15,6 +15,7 @@ namespace CrackingTheCodingInterview.Code.Chapter_1
         {
             if (string.IsNullOrEmpty(string1) || string.IsNullOrEmpty(string2))
             {
+                return false;
                 throw new ArgumentException("Input strings cannot be null or empty");
             }
 

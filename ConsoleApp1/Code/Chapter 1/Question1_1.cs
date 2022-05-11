@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.Code.Chapter_1
+namespace CrackingTheCodingInterview.Code.Chapter_1
 {
     public static class Question1_1
     {
-
+        // 1.1 Реализуйте алгоритм, определяющий, все ли символы в строке встречаются только один раз.
+        // А если при этом запрещено использование дополнительных структур данных?
 
         // Space: O(N)
         // Time: O(N)

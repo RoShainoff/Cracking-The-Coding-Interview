@@ -13,7 +13,7 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            Question1_2.AreStringsPermutationNoSort("asd", "asd");
+            Question1_3.ReplaceSpaces("Mr John Smith    ", 13);
 
             Console.ReadLine();
         }
